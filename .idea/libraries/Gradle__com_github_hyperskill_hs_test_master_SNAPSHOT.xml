@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.hyperskill:hs-test:master-SNAPSHOT" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.github.hyperskill" artifactId="hs-test" version="master-SNAPSHOT" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/master-SNAPSHOT/437fdebc788954bda790cc3c0cf3afe991c90204/hs-test-master-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/master-SNAPSHOT/71e4a4646dcd8e9bf58d073b89e8a7da4b2da976/hs-test-master-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
